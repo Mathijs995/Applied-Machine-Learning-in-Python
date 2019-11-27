@@ -6,6 +6,7 @@ Welcome to the Github repository of the Applied Machine Learning in Python works
 - Articles
   - [McKinsey - An executive's guide to AI](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/An%20executives%20guide%20to%20AI/An-executives-guide-to-AI.ashx)
   - [The Economist - Python is becoming the worlds most popular coding language](https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language)
+  - [The Economist - Python has brought computer programming to a vast new audience](https://www.economist.com/science-and-technology/2018/07/19/python-has-brought-computer-programming-to-a-vast-new-audience)
   - [CBT Nuggets - Why data scientists love Python](https://www.cbtnuggets.com/blog/technology/data/why-data-scientists-love-python)
   - [Quora - Why do we use Python for data analytics?](https://www.quora.com/Why-do-we-use-Python-for-data-analytics)
 - [Kaggle](https://www.kaggle.com/)
